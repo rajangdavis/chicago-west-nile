@@ -34,7 +34,7 @@ This project will be executed as a group.  To make your team as effective and ef
 1. Define your deliverable - what is the end result?
 2. Break that deliverable up into its components, and then go further down the rabbit hole until you have actionable items. Document these using a project managment tool to track things getting done.  The tool you use is up to you; it could be Trello, a spreadsheet, GitHub issues, etc.
 3. Begin deciding priorities for each task. These are subject to change, but it's good to get an initial consensus. Order these priorities however you would like.
-4. You planning documentation (or a link to it) should be included in your GitHub repo.
+4. Your planning documentation (or a link to it) should be included in your GitHub repo.
 
 **EDA**
 
