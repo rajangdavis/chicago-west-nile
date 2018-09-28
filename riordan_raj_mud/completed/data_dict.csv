@@ -1,0 +1,35 @@
+,Category,Description,Datatype
+Address,Spatial/Temporal,Address of trap,str
+AddressAccuracy,Spatial/Temporal,Accuracy of trap address,str
+AvgSpeed,Weather,Daily average wind speed (MPH),float
+Block,Spatial/Temporal,"Aereal description, related to lat/long",int
+Cool,Weather,Departure (in degrees) from 65 degree fahrenheit baseline,int
+Date,Spatial/Temporal,Date in format YYYY-MM-DD),datetime
+Depart,Weather,Temp departure from historical normal,float
+Depth,Weather,Depth of snowfall (in),float
+DewPoint,Weather,The temperature at which water condensates. A factor in measuring relative humidity.,float
+DewPoint_roll,Weather,Rolling mean of dewpoint column,float
+Heat,Weather,Departure (in degrees) from 65 degree fahrenheit baseline,int
+Heat_roll_28,Weather,"Rolling mean of ""heat"" column",int
+Lat_int,Spatial/Temporal,Latitude of trap rounded to nearest integer,int
+Long_int,Spatial/Temporal,Longitude of trap rounded to nearest integer,int
+PrecipTotal,Weather,Amout of rainfall (in inches),int
+PrecipTotal_roll,Weather,Rolling average rainfall,int
+ResultDir,Weather,Resultant wind direction (whole degress),float
+ResultSpeed,Weather,Resultant wind speed (vector sum of wind and direction),float
+ResultSpeed_roll,Weather,Rolling mean of resultant wind speed,float
+SeaLevel,Weather,Daily average sea level (feet),int
+SnowFall,Weather,Depth of snowfall (in),float
+Species,Spatial/Temporal,Species of mosquito,str
+StnPressure,Weather,Daily average atmospheric pressure (inches/HG),float
+Street,Spatial/Temporal,Street address of mosquito trap,int
+Sunrise,Weather,"Time of sunrise (CST). Calculated, not observed.",int
+Sunset,Weather,"Time of sunset (CST). Calculated, not observed.",int
+Tavg,Weather,Daily average temperature (farenheit),int
+Tmax,Weather,Maximum temperature for a given day (fahrenheit),int
+Tmax_roll,Weather,Maximum temperature rolling mean,int
+Tmin,Weather,Minimum temperature for a given day (fahrenheit),int
+Tmin_roll,Weather,Minimum temperature rolling mean,int
+Trap,Spatial/Temporal,Mosquito trap id,str
+Water1,Weather,Depth of snowmelt (in),float
+WetBulb,Weather,Temperature recorded via wetbulb thermometer. Takes into account humidity and ambient temp. Similar to heat index.,int

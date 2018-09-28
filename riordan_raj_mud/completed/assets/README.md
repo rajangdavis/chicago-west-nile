@@ -1,0 +1,1 @@
+All of our pickles were extremely large, thus we didn't add them to our github repo.
